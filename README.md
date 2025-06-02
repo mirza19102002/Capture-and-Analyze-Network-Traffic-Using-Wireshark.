@@ -26,7 +26,7 @@ Step 6: Captured the network traffic as https Protocol.
 ![Upload 7](https://github.com/user-attachments/assets/672b9a9c-5690-492c-8e80-fe622276eede)
 ![Upload 8](https://github.com/user-attachments/assets/8da1b654-1b87-42d2-b890-ccf82baf4591)
 
-Step 7: Save the file as .pcap Format Shown above in the File
+Step 7: Save the file as .pcap Format Shown in the Above file.
 
 Step 8: Analyze the traffic as on DNS Protocol.
 
@@ -36,4 +36,4 @@ Step 9: Right click on the DNS Protocol Data Packet then click on follow then UD
 
 Step 10: Analyze the Data Packets from the all the Given Protocols.
 
-
+# Potential Risks from Network Traffic:Network traffic carries the risk of malware, unauthorized access, and cyberattacks like DDoS, phishing, and insider threats. These threats can lead to data breaches, system disruptions, and financial losses. 
