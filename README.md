@@ -8,10 +8,10 @@ Step 2: Capturing the local Connection for the Network Traffic (Adapter for loop
 Step 3: After 1 or 2 Min Paused the capture. 
 Step 4: Captured the network traffic as TCP Protocols.
 ![Upload 03](https://github.com/user-attachments/assets/b06f432d-7c24-4e33-8a10-e9e8f42d48ce)
-![Upload 04](https://github.com/user-attachments/assets/99695942-bafe-4555-9820-0889b024fdde)
+
 Step 5: Captured the network traffic as UDP Protocol.
-![Upload 5](https://github.com/user-attachments/assets/67f7785b-7aa1-4276-902c-ba1047efb3f8)
-![Upload 6](https://github.com/user-attachments/assets/e6763896-3e5e-41fd-b6bb-99bd39710956)
+![Upload 04](https://github.com/user-attachments/assets/99695942-bafe-4555-9820-0889b024fdde)
+
 Step 6: Captured the network traffic as https Protocol.
 ![Upload 7](https://github.com/user-attachments/assets/672b9a9c-5690-492c-8e80-fe622276eede)
 ![Upload 8](https://github.com/user-attachments/assets/8da1b654-1b87-42d2-b890-ccf82baf4591)
