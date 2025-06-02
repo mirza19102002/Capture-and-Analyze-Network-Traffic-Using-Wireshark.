@@ -26,7 +26,7 @@ Step 6: Captured the network traffic as https Protocol.
 ![Upload 7](https://github.com/user-attachments/assets/672b9a9c-5690-492c-8e80-fe622276eede)
 ![Upload 8](https://github.com/user-attachments/assets/8da1b654-1b87-42d2-b890-ccf82baf4591)
 
-Step 7: Save the file as .pcap Format Shown in the Above file.
+Step 7: Save the file as .pcap Format Shown in the Above Captured Network Traffic.pcapng file.
 
 Step 8: Analyze the traffic as on DNS Protocol.
 
